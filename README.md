@@ -10,7 +10,7 @@ com Prisma e Axios
 Porta: 3001
 
 POST com corpo em json http://localhost:3001/folha/cadastrar
-GET para listar as folhas cadastradas (está sem a parte de cálculos) http://localhost:3001/folha/calcular
+e GET para listar as folhas cadastradas (está sem a parte de cálculos) http://localhost:3001/folha/calcular
 
 ---------------------------------
 
